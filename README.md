@@ -30,7 +30,11 @@ Website: https://azure.microsoft.com/en-us/products/ai-services/ai-translator<br
 <br><br>
 > Note: you need to update the **azure.env** file with your Azure AI services informations.
 
-## 2. Some webapp screenshots
+## 2. Azure AI Translator Portal
+Access the main portal to navigate to different functionalities:
+<a href="portal.ipynb">Azure AI Translator Portal</a>
+
+## 3. Some webapp screenshots
 
 ### An exemple of a custom webapp for text translation
 <br>
@@ -44,7 +48,7 @@ Website: https://azure.microsoft.com/en-us/products/ai-services/ai-translator<br
 <br>
 <img src="webapp4.jpg">
 
-## 3. Azure AI features
+## 4. Azure AI features
 
 ### Text Translation
 Execute text translation between supported source and target languages in real time. Create a dynamic dictionary and learn how to prevent translations using the Translator API.
@@ -66,7 +70,7 @@ Build customized models to translate domain- and industry-specific language, ter
 <br><br>
 https://learn.microsoft.com/en-us/azure/ai-services/translator/custom-translator/overview
 
-## 4. Documentation and links
+## 5. Documentation and links
 
 ### Azure AI Translator documentation
 https://learn.microsoft.com/en-us/azure/ai-services/translator/
